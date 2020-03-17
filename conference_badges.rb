@@ -48,4 +48,6 @@ def printer(attendees)
 end
 
 
+printer(people)
+
 
